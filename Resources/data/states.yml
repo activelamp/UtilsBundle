@@ -1,0 +1,203 @@
+alabama:
+    name:           Alabama
+    abbreviation:   AL
+
+alaska:
+    name:           Alaska
+    abbreviation:   AK
+
+arizona:
+    name:           Arizona
+    abbreviation:   AZ
+
+arkansas:
+    name:           Arkansas
+    abbreviation:   AR
+
+california:
+    name:           California
+    abbreviation:   CA
+
+colorado:
+    name:           Colorado
+    abbreviation:   CO
+
+connecticut:
+    name:           Connecticut
+    abbreviation:   CT
+
+delaware:
+    name:           Delaware
+    abbreviation:   DE
+
+district_of_columbia:
+    name:           District of Columbia
+    abbreviation:   DC
+
+florida:
+    name:           Florida
+    abbreviation:   FL
+
+georgia:
+    name:           Georgia
+    abbreviation:   GA
+
+hawaii:
+    name:           Hawaii
+    abbreviation:   HI
+
+idaho:
+    name:           Idaho
+    abbreviation:   ID
+
+illinois:
+    name:           Illinois
+    abbreviation:   IL
+
+indiana:
+    name:           Indiana
+    abbreviation:   IN
+
+iowa:
+    name:           Iowa
+    abbreviation:   IA
+
+kansas:
+    name:           Kansas
+    abbreviation:   KS
+
+kentucky:
+    name:           Kentucky
+    abbreviation:   KY
+
+louisiana:
+    name:           Louisiana
+    abbreviation:   LA
+
+maine:
+    name:           Maine
+    abbreviation:   ME
+
+maryland:
+    name:           Maryland
+    abbreviation:   MD
+
+massachusetts:
+    name:           Massachusetts
+    abbreviation:   MA
+
+michigan:
+    name:           Michigan
+    abbreviation:   MI
+
+minnesota:
+    name:           Minnesota
+    abbreviation:   MN
+
+mississippi:
+    name:           Mississippi
+    abbreviation:   MS
+
+missouri:
+    name:           Missouri
+    abbreviation:   MO
+
+montana:
+    name:           Montana
+    abbreviation:   MT
+
+nebraska:
+    name:           Nebraska
+    abbreviation:   NE
+
+nevada:
+    name:           Nevada
+    abbreviation:   NV
+
+new_hampshire:
+    name:           New Hampshire
+    abbreviation:   NH
+
+new_jersey:
+    name:           New Jersey
+    abbreviation:   NJ
+
+new_mexico:
+    name:           New Mexico
+    abbreviation:   NM
+
+new_york:
+    name:           New York
+    abbreviation:   NY
+
+north_carolina:
+    name:           North Carolina
+    abbreviation:   NC
+
+north_dakota:
+    name:           North Dakota
+    abbreviation:   ND
+
+ohio:
+    name:           Ohio
+    abbreviation:   OH
+
+oklahoma:
+    name:           Oklahoma
+    abbreviation:   OK
+
+oregon:
+    name:           Oregon
+    abbreviation:   OR
+
+pennsylvania:
+    name:           Pennsylvania
+    abbreviation:   PA
+
+rhode_island:
+    name:           Rhode Island
+    abbreviation:   RI
+
+south_carolina:
+    name:           South Carolina
+    abbreviation:   SC
+
+south_dakota:
+    name:           South Dakota
+    abbreviation:   SD
+
+tennessee:
+    name:           Tennessee
+    abbreviation:   TN
+
+texas:
+    name:           Texas
+    abbreviation:   TX
+
+utah:
+    name:           Utah
+    abbreviation:   UT
+
+vermont:
+    name:           Vermont
+    abbreviation:   VT
+
+virginia:
+    name:           Virginia
+    abbreviation:   VA
+
+washington:
+    name:           Washington
+    abbreviation:   WA
+
+west_virginia:
+    name:           West Virginia
+    abbreviation:   WV
+
+wisconsin:
+    name:           Wisconsin
+    abbreviation:   WI
+
+wyoming:
+    name:           Wyoming
+    abbreviation:   WY

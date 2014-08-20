@@ -1,0 +1,7 @@
+services:
+    al_utils.form_type.us_states:
+        class: ActiveLAMP\Bundle\UtilsBundle\Form\USStateType
+        arguments:
+            - []
+        tags:
+            - { name: form.type, alias: al_us_state_choice }

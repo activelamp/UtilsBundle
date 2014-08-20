@@ -26,7 +26,6 @@ class DateRangeValidator extends ConstraintValidator
      */
     public function validate($value, Constraint $constraint)
     {
-
         $reflection = new \ReflectionObject($value);
 
         if ($reflection->hasProperty($constraint->start) === false) {
@@ -98,7 +97,8 @@ class DateRangeValidator extends ConstraintValidator
                     $message,
                     array(
                         '{{ limit }}' => $limit,
-                    )
+                    ),
+                    null
                 );
         } else {
             $this->context
